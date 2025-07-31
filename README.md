@@ -13,6 +13,6 @@
  - Инструменты: Git, PowerPoint, Excel
  - Иностранные языки: Английский - B2
 ## Проекты
-- [Дашборд маркетплейса]([https://www.typescriptlang.org/](https://datalens.yandex.cloud/qixvfwycbuoib-sales))
+- [Дашборд маркетплейса](https://datalens.yandex.cloud/qixvfwycbuoib-sales)
 ## To do
 ...
